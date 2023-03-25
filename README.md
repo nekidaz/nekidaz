@@ -11,7 +11,7 @@
 - ⚡️ I'm passionate about clean code, automation, and problem-solving.
 - 👤 Open for job opportunities!
 - 🗣 Fluent in English and Russian
-- 📱 You can contact me on Telegram - @nekidaz
+- 📱 You can contact me on Telegram - @wexexew
 
 <p align="center">
   <img src="https://github.com/nekidaz/nekidaz/blob/main/assets/computer.gif" alt="Computer gif" />
