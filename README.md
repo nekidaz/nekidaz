@@ -1,4 +1,4 @@
-# Hey, I'm nekidaz 👋
+# Hey, I'm Dilmurat 👋
 
 <p align="center">
   <img src="https://github.com/nekidaz/nekidaz/blob/main/assets/coding.gif" alt="Coding gif" />
